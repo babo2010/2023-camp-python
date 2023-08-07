@@ -1,3 +1,3 @@
-print('what is  this') 
-print('this is a frog')
-print('thank you')
+print('what is  she') 
+print('she is a babo back sunhwa')
+print('okey')
